@@ -28,7 +28,7 @@
   "homepage": "https://github.com/soenkekluth/connect-ssi",
   "dependencies": {
     "defaults": "^1.0.0",
-    "node-ssi": "^0.3.0",
+    "node-ssi": "github:uswitch/node-ssi",
     "parseurl": "^1.3.0"
   },
   "devDependencies": {
